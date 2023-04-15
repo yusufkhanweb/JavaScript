@@ -98,5 +98,4 @@
 // let id = true;
 // let face = true;
 
-// console.log(id && face); 
-
+//salom
