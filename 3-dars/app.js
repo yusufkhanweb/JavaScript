@@ -86,7 +86,7 @@
 
 // Lojical operators
 //     || OR  ikkala tamondan bittasi ham true bulsa true chiqaradi
-
+   ////
 // let ceo= true;
 // let admin= true;
 // console.log(admin === true || ceo === true);
